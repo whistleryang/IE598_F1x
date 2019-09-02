@@ -99,7 +99,7 @@ print( metrics.confusion_matrix(y_test, y_pred) )
 #[ 0 3 8]
 #[ 0 4 15]]
 
-print("My name is Matthew Murphy")
-print("My NetID is: mdmurph")
+print("My name is Taiyu Yang")
+print("My NetID is: taiyuy2")
 print("I hereby certify that I have read the University policy on Academic Integrity and that I am not in violation.")
 ######STOP HERE######################
